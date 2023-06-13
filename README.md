@@ -13,7 +13,7 @@ I have completed a frontend assignment using technologies of HTML, CSS, JavaScri
  
 <h1>
     
-   <h1>github Link: <span>https://github.com/rekha-shinde/panorbit-assignment/tree/master  </span></h1>
+   <h1>Github Link: <span>https://github.com/rekha-shinde/panorbit-assignment/tree/master  </span></h1>
    
    
   
