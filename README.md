@@ -1,6 +1,6 @@
 # panorbit-assignment
 
-I have completed a frontend assignment using technologies of HTML, CSS, JavaScript, React, Tailwind CSS, and Chakra UI. My project includes a user-friendly interface with visually appealing elements. I utilized the latest web development practices to create a modern and efficient application.
+I have completed a frontend developer assignment using technologies of HTML, CSS, JavaScript, React, Tailwind CSS, and Chakra UI. My project includes a user-friendly interface with visually appealing elements. I utilized the latest web development practices to create a modern and efficient application.
 
 <h1>Tech Stack</h1>
 
